@@ -1,4 +1,5 @@
 # OpenAI Driven Review Intelligence of the Beauty Industry with Spark
+[Final Deliverable Dashboard](https://public.tableau.com/views/Productoverview_17070828986800/TopicModeling?:language=zh-TW&:display_count=n&:origin=viz_share_link)
 
 # Executive Summary
 
@@ -9,6 +10,7 @@ Our project's primary objective is to establish a big-data-driven review intelli
 # What is in the pipeline?
 
 We leverage Databricks, PySpark, and OpenAI APIs to scalably conduct unsupervised analysis of product reviews to extract topics and classify sentiments. By setting up 4 steps of prompts, we process the review data by batches and merge the resulting topics to get a bag of topics on the full scale of data. By labeling each review with topic and sentiment, we are able to generate a comprehensive dashboard of hierarchical visualizations that is of great use in business settings.
+
 ![image](https://github.com/clairetsao/OpenAI-Driven-Review-Intelligence-of-the-Beauty-Industry-with-Spark/assets/145289997/14150031-796f-46b7-bb59-016984a9d53c)
 
 # What are the values?
