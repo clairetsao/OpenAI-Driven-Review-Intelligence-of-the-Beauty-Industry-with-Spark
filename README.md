@@ -1,5 +1,5 @@
 # OpenAI Driven Review Intelligence of the Beauty Industry with Spark
-[Final Deliverable Dashboard](https://public.tableau.com/views/Productoverview_17070828986800/TopicModeling?:language=zh-TW&:display_count=n&:origin=viz_share_link)
+[Final Deliverable Dashboard](https://public.tableau.com/views/SentimentAnalysisforCustomerReview/TopicModeling?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
 # Executive Summary
 
