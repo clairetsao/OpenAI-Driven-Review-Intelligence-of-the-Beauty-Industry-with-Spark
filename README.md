@@ -21,6 +21,5 @@ We leverage Databricks, PySpark, and OpenAI APIs to scalably conduct unsupervise
 4. Provides a more flexible sentiment analysis option, in which specific customized interest in sentiments can be analyzed easily (e.g. label the reviews that favor the color of this product as "positive in color")
 5. Can be easily extended and transformed to many industries, as long as there is available review data
 6. Leads to a comprehensive dashboard that provides analysis on different levels (category/subcategory/product)
-- Link to the dataset: https://www.kaggle.com/datasets/jithinanievarghese/cosmetics-and-beauty-products-reviews-top-brands
 - Link to the project video: https://youtu.be/yFQWXn-usTs
 
